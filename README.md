@@ -1,1 +1,1 @@
-[![show-directory](https://github.com/pap0gallo/hexlet-my-first-workflow/actions/workflows/show-directory.yml/badge.svg?branch=main&event=push)](https://github.com/pap0gallo/hexlet-my-first-workflow/actions/workflows/show-directory.yml)
+[![show-directory](https://github.com/pap0gallo/hexlet-my-first-workflow/actions/workflows/show-directory.yml/badge.svg?branch=main)](https://github.com/pap0gallo/hexlet-my-first-workflow/actions/workflows/show-directory.yml)
